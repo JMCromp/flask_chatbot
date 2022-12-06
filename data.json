@@ -1,0 +1,49 @@
+{
+    "intents": [
+    {
+        "tag": "greeting",
+        "patterns": [
+            "hi",
+            "how are you",
+            "are you there?",
+            "what's up?",
+            "good day",
+            "g'day"
+        ],
+        "responses": [
+            "Hey, what's your name?"
+        ]
+    },
+    {
+        "tag": "hal",
+        "patterns": [
+            "open the pod bay doors"
+        ],
+        "responses": [
+            "I'm sorry, I'm afraid I can't do that..."
+        ]
+    },
+    {
+        "tag": "jokes",
+        "patterns": [
+            "tell me a joke",
+            "say something funny",
+            "be funny"
+        ],
+        "responses": [
+            "What do you call Batman leaving church early... a Christian Bale"
+        ]
+    },
+    {
+        "tag": "robin",
+        "patterns": [
+            "wheels on the bus",
+            "round and round",
+            "the wheels on the bus"
+        ],
+        "responses": [
+            "I'm not 6..."
+        ]
+    }
+    ]
+}
