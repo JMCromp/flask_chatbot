@@ -1,6 +1,6 @@
-#Windows:
+# Windows:
 
-##from root:
+## from root:
 > py -m venv Chatbot
 > pip3 install tensorflow
 > pip3 install numpy
@@ -8,9 +8,9 @@
 > py training.py
 > py chatbot.py
 
-#MacOS:
+# MacOS:
 
-##from root:
+## from root:
 > python3 -m venv Chatbot
 > pip3 install tensorflow
 > pip3 install numpy
